@@ -1,4 +1,3 @@
-# Building-an-Active-Directory-Target-Environment
 # Phase 1: Building an Active Directory Target Environment
 
 ## Project Overview
