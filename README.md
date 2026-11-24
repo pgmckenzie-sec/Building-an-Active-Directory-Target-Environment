@@ -13,11 +13,10 @@ This phase focused on transforming a basic Active Directory deployment into a re
 
 | Host | Role | IP Address |
 |--------|--------|------------|
-| DC01 | Windows Server 2022 Domain Controller | 192.168.56.10 |
-| Kali Linux | Attack Platform | 192.168.56.20 |
+| DC01 | Windows Server 2019 Domain Controller | 192.168.56.10 |
+| Kali Linux | Attack Platform | 192.168.56.40 |
 | Wazuh Server | SIEM & Security Monitoring | 192.168.56.50 |
-| WIN10-USER1 | Domain Workstation | 192.168.56.60 |
-| WIN10-USER2 | Domain Workstation | 192.168.56.61 |
+| WIN10-USER1 | Domain Workstation | 192.168.56.20 |
 
 ---
 
